@@ -4,7 +4,7 @@ This project provides a simple Python-based system for collecting and managing s
 
 Features
 
--Staff Information Collection: Capture essential staff details like date, ID, and name.
+- Staff Information Collection: Capture essential staff details like date, ID, and name.
 -Requisition Management: Automatically generates a unique requisition ID starting from 10000.
 -Basic Input Processing: Simple prompts for user inputs with the ability to expand the system further.
 -Extendable Structure: Designed for future improvements like data validation, storage, and complex requisition handling.
